@@ -15,5 +15,5 @@ This project involves designing an EMG (Electromyography) signal measurement sys
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
+   git clone https://github.com/yourusername/EMG-Monitoring.git
 
